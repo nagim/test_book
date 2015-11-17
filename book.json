@@ -3,7 +3,8 @@
         "github",
         "github-buttons",
         "comment",
-        "include"
+        "include",
+        "include-highlight"
     ],
     "pluginsConfig": {}
 }
