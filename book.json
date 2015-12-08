@@ -2,8 +2,6 @@
     "plugins": [
         "comment",
         "include",
-        "include-highlight",
-        "include-codeblock"
     ],
     "pluginsConfig": {}
 }
