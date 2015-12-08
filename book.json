@@ -10,5 +10,6 @@
     "pluginsConfig": {
         "github-buttons": {
             "repo": "nagim/test_book"
+        }
     }
 }
