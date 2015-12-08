@@ -10,9 +10,9 @@ AsciiDoc Home Page
 
 !INCLUDE "chapter1.md"
 
+
 Introduction
 ------------
-{description}
 
 AsciiDoc is highly configurable: both the AsciiDoc source file syntax and the
 backend output markups (which can be almost any type of SGML/XML markup) can be
