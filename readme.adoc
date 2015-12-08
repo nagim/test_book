@@ -20,6 +20,8 @@ installation instructions.
 'Stuart Rackham'
 ************************************************************************
 
+include::chapter1.md[]
+
 Introduction
 ------------
 {description}
