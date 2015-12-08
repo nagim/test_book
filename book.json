@@ -1,18 +1,9 @@
 {
     "plugins": [
-        "github",
-        "github-buttons",
         "comment",
         "include",
         "include-highlight",
         "include-codeblock"
     ],
-    "pluginsConfig": {
-        "github": {
-            "url": "https://github.com/nagim/test_book"
-        },
-        "github-buttons": {
-            "repo": "nagim/test_book"
-        }
-    }
+    "pluginsConfig": {}
 }
