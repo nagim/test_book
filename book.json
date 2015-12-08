@@ -2,7 +2,8 @@
     "plugins": [
         "comment",
         "include",
-        "-search"
+        "-search",
+        "search-pro"
     ],
     "pluginsConfig": {}
 }
