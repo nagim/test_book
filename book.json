@@ -8,6 +8,9 @@
         "include-codeblock"
     ],
     "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/your/repo"
+        },
         "github-buttons": {
             "repo": "nagim/test_book"
         }
