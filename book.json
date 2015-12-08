@@ -7,5 +7,8 @@
         "include-highlight",
         "include-codeblock"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "github-buttons": {
+            "repo": "nagim/test_book"
+    }
 }
