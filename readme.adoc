@@ -19,7 +19,6 @@ installation instructions.
 
 'Stuart Rackham'
 ************************************************************************
-!INCLUDE "chapter1.md"
 
 Introduction
 ------------
@@ -34,6 +33,8 @@ General Public License version 2' (GPLv2).
 TIP: The pages you are reading were written using AsciiDoc, to view
 the corresponding AsciiDoc source click on the *Page Source* menu item
 in the left hand margin.
+
+!INCLUDE "chapter1.md"
 
 Overview and Examples
 ---------------------
