@@ -8,11 +8,22 @@ AsciiDoc Home Page
               translated to many formats including HTML, PDF, EPUB,  +
               man page.
 
-!INCLUDE "chapter1.md"
 
+.{revdate}: AsciiDoc {revnumber} Released
+************************************************************************
+Read the link:CHANGELOG.html[CHANGELOG] for release highlights and a
+full list of all additions, changes and bug fixes. Changes are
+documented in the updated link:userguide.html[User Guide]. See the
+link:INSTALL.html[Installation page] for downloads and and
+installation instructions. 
+
+'Stuart Rackham'
+************************************************************************
+!INCLUDE "chapter1.md"
 
 Introduction
 ------------
+{description}
 
 AsciiDoc is highly configurable: both the AsciiDoc source file syntax and the
 backend output markups (which can be almost any type of SGML/XML markup) can be
