@@ -35,6 +35,8 @@ DocBook markups.  DocBook can be post-processed to presentation
 formats such as HTML, PDF, EPUB, DVI, LaTeX, roff, and Postscript
 using readily available Open Source tools.
 
+!INCLUDE "SUMMARY.md"
+
 Example Articles
 ~~~~~~~~~~~~~~~~
 - This XHTML version of the
