@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-   * [Readme](readme.adoc)
+   * [Readme](ascii.adoc)
    * [rST](sdk.rst)
 
