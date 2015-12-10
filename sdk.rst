@@ -36,7 +36,7 @@ Supported operating systems:
 Third-party libraries
 ---------------------
 
-.. include:: README.md
+.. include:: ./README.md
 
 Depending on the platform, the following third-party libraries are used by ABC-Test SDK.
 
