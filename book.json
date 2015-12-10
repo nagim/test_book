@@ -3,7 +3,8 @@
         "comment",
         "include",
         "-sharing",
-        "expandable-chapters"
+        "expandable-chapters",
+        "versions"
     ],
     "pluginsConfig": {}
 }
