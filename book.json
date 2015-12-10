@@ -6,5 +6,9 @@
         "expandable-chapters",
         "versions"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "versions": {
+            "type": "branches"
+        }
+    }
 }
