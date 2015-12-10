@@ -22,6 +22,8 @@ TIP: The pages you are reading were written using AsciiDoc, to view
 the corresponding AsciiDoc source click on the *Page Source* menu item
 in the left hand margin.
 
+ldnslmfnsd
+
 Overview and Examples
 ---------------------
 You write an AsciiDoc document the same way you would write a
@@ -30,10 +32,13 @@ notations. AsciiDoc files are designed to be viewed, edited and
 printed directly or translated to other presentation formats using
 the asciidoc(1) command.
 
+!INCLUDE "SUMMARY.md"
+
 The asciidoc(1) command translates AsciiDoc files to HTML, XHTML and
 DocBook markups.  DocBook can be post-processed to presentation
 formats such as HTML, PDF, EPUB, DVI, LaTeX, roff, and Postscript
 using readily available Open Source tools.
+
 
 Example Articles
 ~~~~~~~~~~~~~~~~
