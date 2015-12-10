@@ -4,8 +4,7 @@
         "include",
         "-sharing",
         "expandable-chapters",
-        "versions",
-        "structured-toc"
+        "versions"
     ],
     "pluginsConfig": {
         "versions": {
