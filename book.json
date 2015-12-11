@@ -6,6 +6,7 @@
         "-sharing",
         "expandable-chapters",
         "versions",
+        "anchors",
         "splitter"
     ],
     "pluginsConfig": {
