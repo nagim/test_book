@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "structured-toc",
         "comment",
         "include",
         "-sharing",
