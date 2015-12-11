@@ -1,6 +1,7 @@
 # Summary
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
    * [rST](sdk.rst)
@@ -12,4 +13,9 @@
    * [Ascii](ascii.adoc)
    * [rST](sdk.rst)
 >>>>>>> parent of 81d8725... Update SUMMARY.md
+=======
+* [Introduction](README.md)
+* [Ascii](ascii.adoc)
+* [rST](sdk.rst)
+>>>>>>> new
 
