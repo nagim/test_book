@@ -1,12 +1,12 @@
 {
     "plugins": [
+        "structured-toc",
         "comment",
         "include",
         "-sharing",
         "expandable-chapters",
         "versions",
         "anchors",
-        "structured-toc",
         "splitter"
     ],
     "pluginsConfig": {
