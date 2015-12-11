@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](chapter1.md)
+* [Introduction](README.md)
 * [First Chapter](chapter1.md)
    * [Ascii](ascii.adoc)
    * [rST](sdk.rst)
