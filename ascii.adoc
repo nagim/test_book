@@ -32,8 +32,6 @@ notations. AsciiDoc files are designed to be viewed, edited and
 printed directly or translated to other presentation formats using
 the asciidoc(1) command.
 
-!INCLUDE "SUMMARY.md"
-
 The asciidoc(1) command translates AsciiDoc files to HTML, XHTML and
 DocBook markups.  DocBook can be post-processed to presentation
 formats such as HTML, PDF, EPUB, DVI, LaTeX, roff, and Postscript
@@ -74,7 +72,8 @@ NOTE: This is a note
 
 [source,js]
 ----
-        function filterArr(qMultiOpt, qArray) {
+        AsciiDoc
+         filterArr(qMultiOpt, qArray) {
                 if($('#question'+qMultiOpt+' input.checkbox:checked').length < 1) {
                         // Hide the array if no multi-opt options are checked
                         $('#question'+qArray+'').hide();
