@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [Ascii](ascii.adoc)
 * [rST](sdk.rst)
-* Glossary
+* [Glossary](GLOSSARY.md)
 
