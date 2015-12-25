@@ -25,6 +25,7 @@ in the left hand margin.
 ldnslmfnsd
 new lines for feature branch
 another new line
+new line
 
 Overview and Examples
 ---------------------
